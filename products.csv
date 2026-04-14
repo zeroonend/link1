@@ -1,0 +1,9 @@
+product_id,product_name,category,weight_g,unit_price_brl,sku,launch_date
+PR001,Salmão Vegetal Premium 200g,Peixe,200,32.9,PF-SAL-200,2022-01-15
+PR002,Atum Vegetal Claro 150g,Peixe,150,24.9,PF-ATU-150,2022-01-15
+PR003,Camarão Vegetal Temperado 100g,Crustáceo,100,28.9,PF-CAM-100,2022-03-10
+PR004,Tilápia Vegetal Defumada 200g,Peixe,200,29.9,PF-TIL-200,2022-07-01
+PR005,Salmão Vegetal Grelhado 300g,Peixe,300,44.9,PF-SAL-300,2023-01-20
+PR006,Polvo Vegetal Cozido 150g,Molusco,150,34.9,PF-POL-150,2023-04-15
+PR007,Atum Vegetal Premium 200g,Peixe,200,31.9,PF-ATU-200,2023-09-01
+PR008,Camarão Vegetal Rosa 200g,Crustáceo,200,38.9,PF-CAM-200,2024-03-01
